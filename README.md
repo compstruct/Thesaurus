@@ -11,6 +11,5 @@ In this paper, we identify a previously untapped source of compressibility in ca
 Main classes: please refer to `approximatededupbdi_cache.h` and `approximatededupbdi_cache.cpp`
 
 
-
-# zsim
-For zsim details please see [here](README_zsim.md)
+# Cache Compression zsim
+This is a variation of the original [zsim simulator](https://github.com/s5z/zsim) that supports compressed caches. For more details please see [here](README_zsim.md).
