@@ -1,6 +1,6 @@
 ## Thesaurus: Efficient Cache Compression via Dynamic Clustering
 
-![Thesaurus](./resources/asplos.png")
+![Thesaurus](./resources/asplos.png)
 
 In this paper, we identify a previously untapped source of compressibility in cache working sets: clusters of cachelines that are similar, but not identical, to one another.
  To compress the cache, we can then store the "clusteroid" of each cluster together with the (much smaller) "diffs" needed to reconstruct the rest of the cluster.
